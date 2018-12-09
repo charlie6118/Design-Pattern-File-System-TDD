@@ -17,4 +17,4 @@ Install pytest by following step,
 
 	Python 3: $ pip3 install pytest
 
-Run the command "pytest" under the test folder. 
+Run the command "pytest" under the test folder to see the test result.
